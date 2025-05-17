@@ -1,4 +1,4 @@
-# Amazon-Clone
+# Amazon-UI-Clone
 Amazon Clone Project
 I developed an Amazon clone using HTML and CSS to replicate the design and layout of the popular e-commerce platform. This project includes:
 
