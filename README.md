@@ -9,4 +9,5 @@ The primary goal of this project was to test and refine my skills, applying what
 
 As a student exploring web development, I’m constantly learning and implementing new concepts. Currently, I’m diving into JavaScript, APIs, and advanced frameworks to expand my skill set and enhance the functionality of similar projects in the future.
 ![ama1](https://github.com/user-attachments/assets/dbb8b115-5437-40a4-a3a8-01411ec481b7)
-![Uploading ama2.jpeg…]()
+![ama2](https://github.com/user-attachments/assets/b589b41b-b5e7-47a5-b158-14a6e000e363)
+
